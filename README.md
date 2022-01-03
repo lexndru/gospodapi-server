@@ -1,5 +1,5 @@
 # gospodapi
-Gospodapi is a server-side application to build and maintain general ledgers for financial purposes. The name is a wordplay between "gospodărie" (ro) meaning household and "API" (en abbr).
+Gospodapi is a server-side application to build and maintain general ledgers. The name is a wordplay between "gospodărie" (ro) meaning household and "API" (en abbr).
 
 # Known issues and limits of the implementation
 - No pagination: this may cause problems to clients which cannot support long (as in time) bigger (as in size) tranfeser of data;
@@ -9,14 +9,14 @@ Gospodapi is a server-side application to build and maintain general ledgers for
 - Upserting transactions by UUID with detailed breakdown of the amount will cause data corruption;
 
 # Todo
-[ ] Save process state while gracefullly shutting down with close() method
-[ ] Awake must check if another process is also running
-[ ] Add flag to `-share` database with other instances of the process on the same VM (prevent awake to exit on PID duplicate)
-[ ] Benchmark API request against PostgreSQL/MariaDB/MySQL/SQLite
-[x] Add ON UPDATE CASCADE for actors and labels name changes
-[x] Add FK constraint for self ref. (parent) column in labels
+- [ ] Save process state while gracefullly shutting down with close() method
+- [ ] Awake must check if another process is also running
+- [ ] Add flag to `-share` database with other instances of the process on the same VM (prevent awake to exit on PID duplicate)
+- [ ] Benchmark API request against PostgreSQL/MariaDB/MySQL/SQLite
+- [x] Add ON UPDATE CASCADE for actors and labels name changes
+- [x] Add FK constraint for self ref. (parent) column in labels
 
-# BSD 3-Clause License
+# License
 Copyright (c) 2021 Alexandru Catrina <alex@codeissues.net>
 All rights reserved.
 
