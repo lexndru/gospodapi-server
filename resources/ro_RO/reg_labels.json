@@ -1,0 +1,866 @@
+[
+    {
+        "name": "?",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Abonamente",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Accesorii mașină",
+        "parent": "Mașină",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Accesorii pentru animale",
+        "parent": "Petshop",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Accesorii îmbrăcăminte",
+        "parent": "Îmbrăcaminte",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Accesorii și huse",
+        "parent": "Electronice",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Accesorii și joysticks",
+        "parent": "Consolă",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Active fixe",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Alcool",
+        "parent": "Băuturi",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Alimente",
+        "parent": "Mâncare",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Alocație",
+        "parent": "Venituri",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "Apă",
+        "parent": "Băuturi",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Apă minerală",
+        "parent": "Băuturi",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Aranjamente florale",
+        "parent": "Cadouri și donații",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Articole exterior",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Articole sportive",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Articole sănătate și fitness",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Asigurare RCA",
+        "parent": "Taxe",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Baie",
+        "parent": "Casă și curățenie",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Bere și cidru",
+        "parent": "Alcool",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Bijuterii",
+        "parent": "Cadouri și donații",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Bluză cu mânecă lungă",
+        "parent": "Îmbrăcaminte",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Bricolaj",
+        "parent": "Casă și curățenie",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Brutărie și cofetărie",
+        "parent": "Alimente",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Buchete și aranjamente florale",
+        "parent": "Cadouri și donații",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Bucătărie",
+        "parent": "Casă și curățenie",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Băcănie",
+        "parent": "Alimente",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Băuturi",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Cabluri și adaptoare",
+        "parent": "Electronice",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Cadouri și donații",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Cafea și ceaiuri",
+        "parent": "Băcănie",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Carne",
+        "parent": "Alimente",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Casă și curățenie",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Catering",
+        "parent": "Mâncare",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Chirie și cazare",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Cofetărie",
+        "parent": "Brutărie și cofetărie",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Combustibil",
+        "parent": "Mașină",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Comisione",
+        "parent": "Taxe",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Condimente și sosuri",
+        "parent": "Băcănie",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Consolă",
+        "parent": "Electronice",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Consumabile",
+        "parent": "Electrocasnice",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Cosmetice",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Câștig",
+        "parent": "Venituri",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "Cămașă",
+        "parent": "Îmbrăcaminte",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Cărți și publicații",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "DNS",
+        "parent": "Digitale",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Depunere numerar",
+        "parent": "Venituri",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "Desktop",
+        "parent": "Electronice",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Detergenți și balsam",
+        "parent": "Casă și curățenie",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Digitale",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Divertisment",
+        "parent": "Digitale",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Dividende",
+        "parent": "Venituri",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "Donație",
+        "parent": "Venituri",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "Donații publice",
+        "parent": "Cadouri și donații",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Dulciuri",
+        "parent": "Băcănie",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Electrocasnice",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Electronice",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Examen medical",
+        "parent": "Sănătate și wellness",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Frizerie",
+        "parent": "Servicii",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Fructe și legume",
+        "parent": "Alimente",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Fustă",
+        "parent": "Îmbrăcaminte",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Fără alcool",
+        "parent": "Băuturi",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Găzduire server",
+        "parent": "Digitale",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Hrană pentru câini",
+        "parent": "Petshop",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Hrană pentru pisici",
+        "parent": "Petshop",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Ierburi și verdețuri",
+        "parent": "Alimente",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Igienă",
+        "parent": "Cosmetice",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Igienă dentară",
+        "parent": "Cosmetice",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Igienă intimă",
+        "parent": "Cosmetice",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Impozite",
+        "parent": "Taxe",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Imprimantă",
+        "parent": "Electronice",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Internet și telefonie",
+        "parent": "Servicii",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Investiții și economii",
+        "parent": null,
+        "flags": 2,
+        "headers": ""
+    },
+    {
+        "name": "Jocuri",
+        "parent": "Digitale",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Lactate și ouă",
+        "parent": "Alimente",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Laptop",
+        "parent": "Electronice",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Lenjerie intimă",
+        "parent": "Îmbrăcaminte",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Lichidare economii",
+        "parent": null,
+        "flags": 3,
+        "headers": ""
+    },
+    {
+        "name": "Mașină",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Medicamente",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Menaj",
+        "parent": "Casă și curățenie",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Mezeluri",
+        "parent": "Alimente",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Mobilă",
+        "parent": "Casă și curățenie",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Monitor",
+        "parent": "Electronice",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Mâncare",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Ocazie specială",
+        "parent": "Cadouri și donații",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Oftalmolog",
+        "parent": "Sănătate și wellness",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Ornamente și decorațiuri",
+        "parent": "Casă și curățenie",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Pantaloni lungi",
+        "parent": "Îmbrăcaminte",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Pantaloni scurți",
+        "parent": "Îmbrăcaminte",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Papetărie",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Parafarmacie",
+        "parent": "Cosmetice",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Parfumuri",
+        "parent": "Cosmetice",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Patiserie",
+        "parent": "Brutărie și cofetărie",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Pensie",
+        "parent": "Venituri",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "Pentru baie",
+        "parent": "Soluții de curățare",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Pentru bucătărie",
+        "parent": "Soluții de curățare",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Periferice",
+        "parent": "Electronice",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Petshop",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Pijamale",
+        "parent": "Îmbrăcaminte",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Produse pentru față",
+        "parent": "Cosmetice",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Produse pentru păr",
+        "parent": "Cosmetice",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Pâine",
+        "parent": "Brutărie și cofetărie",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Restituire",
+        "parent": "Venituri",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "Rețelistică",
+        "parent": "Electronice",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Rochie",
+        "parent": "Îmbrăcaminte",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Rovinieta",
+        "parent": "Taxe",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Salariu",
+        "parent": "Venituri",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "Servicii",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Smartphone",
+        "parent": "Electronice",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Smartwatch",
+        "parent": "Electronice",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Snacks",
+        "parent": "Băcănie",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Soluții de curățare",
+        "parent": "Casă și curățenie",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Sprijin financiar",
+        "parent": null,
+        "flags": 7,
+        "headers": ""
+    },
+    {
+        "name": "Spălătorie și curățătorie",
+        "parent": "Servicii",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Stocare și partajare",
+        "parent": "Electronice",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Sucuri",
+        "parent": "Băuturi",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Sunet",
+        "parent": "Electronice",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Suplimente alimentare",
+        "parent": "Alimente",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Sănătate și wellness",
+        "parent": "Servicii",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Tabletă",
+        "parent": "Electronice",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Taxe",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Textile de casă",
+        "parent": "Casă și curățenie",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Transfer bancar",
+        "parent": "Venituri",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "Transfer intern",
+        "parent": null,
+        "flags": 7,
+        "headers": ""
+    },
+    {
+        "name": "Transport",
+        "parent": "Servicii",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Tricou",
+        "parent": "Îmbrăcaminte",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Tărie",
+        "parent": "Alcool",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Utilități",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Venit net/PFA",
+        "parent": "Venituri",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "Venit pasiv",
+        "parent": "Venituri",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "Venituri",
+        "parent": null,
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "Vin și șampanie",
+        "parent": "Alcool",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Vizită dentist",
+        "parent": "Sănătate și wellness",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Ziua de naștere",
+        "parent": "Cadouri și donații",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Ziua de nume",
+        "parent": "Cadouri și donații",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "eBooks",
+        "parent": "Digitale",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Îmbrăcaminte",
+        "parent": null,
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Împrumut",
+        "parent": "Venituri",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "Încalțăminte",
+        "parent": "Îmbrăcaminte",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Întreținere auto",
+        "parent": "Servicii",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Întreținere și reparații",
+        "parent": "Servicii",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Șervețele și hârtie igienică",
+        "parent": "Casă și curățenie",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "Șosete",
+        "parent": "Îmbrăcaminte",
+        "flags": 0,
+        "headers": ""
+    }
+]

@@ -1,0 +1,70 @@
+[
+	{
+		"date": "2020-02-15T00:00:00Z",
+		"amount": 1240000,
+		"label": "Label #3",
+		"sender": "?",
+		"receiver": "?",
+		"signature": "test-signature",
+		"flags": 1,
+		"headers": "sender=actor.#6-xxxx-xxxx-xxxx-xxxxxxxxxxxx receiver=actor.#1-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+		"details": []
+	},
+	{
+		"date": "2020-02-06T00:00:00Z",
+		"amount": -930,
+		"label": "Label #1.2",
+		"sender": "Actor #1",
+		"receiver": "Actor #2",
+		"signature": "test-signature",
+		"flags": 0,
+		"headers": "",
+		"details": []
+	},
+	{
+		"date": "2020-02-06T00:00:00Z",
+		"amount": -1500,
+		"label": "Label #1.1",
+		"sender": "Actor #1",
+		"receiver": "Actor #5",
+		"signature": "test-signature",
+		"flags": 0,
+		"headers": "",
+		"details": []
+	},
+	{
+		"date": "2020-02-06T00:00:00Z",
+		"amount": -15900,
+		"label": "Label #2",
+		"sender": "Actor #3",
+		"receiver": "Actor #4",
+		"signature": "xxx",
+		"flags": 0,
+		"headers": "",
+		"details": []
+	},
+	{
+		"date": "2020-02-05T00:00:00Z",
+		"amount": -6232,
+		"label": "Label #1",
+		"sender": "Actor #1",
+		"receiver": "Actor #2",
+		"signature": "test-signature",
+		"flags": 0,
+		"headers": "",
+		"details": [
+			{
+				"label": "Label #1.1",
+				"amount": 3822,
+				"flags": 0,
+				"headers": ""
+			},
+			{
+				"label": "Label #1.2",
+				"amount": 2410,
+				"flags": 0,
+				"headers": ""
+			}
+		]
+	}
+]

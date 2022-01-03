@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Actor #1",
+		"flags": 1,
+		"headers": ""
+	},
+	{
+		"name": "Actor #2",
+		"flags": 2,
+		"headers": ""
+	},
+	{
+		"name": "Actor #3",
+		"flags": 3,
+		"headers": ""
+	},
+	{
+		"name": "Actor #4",
+		"flags": 4,
+		"headers": ""
+	},
+	{
+		"name": "Actor #5",
+		"flags": 5,
+		"headers": ""
+	}
+]

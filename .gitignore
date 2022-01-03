@@ -1,0 +1,10 @@
+dist
+*.tar.gz
+*.zip
+.gospodapi
+start
+start.maria
+tests
+tmp
+coverage.out
+heatmap.out

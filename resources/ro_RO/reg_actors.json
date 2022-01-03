@@ -1,0 +1,127 @@
+[
+    {
+        "name": "?",
+        "flags": 0,
+        "headers": ""
+    },
+    {
+        "name": "(aprozar)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(benzinărie)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(broker)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(carmangerie)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(cizmărie)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(croitorie)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(farmacie)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(florărie)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(frizerie)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(gelaterie)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(hypermarket)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(librărie)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(magazin)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(notar)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(online)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(parcare)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(piață)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(restaurant)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(service)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(spălătorie)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(supermarket)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(terasă)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(transport)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(vulcanizare)",
+        "flags": 1,
+        "headers": ""
+    }
+]

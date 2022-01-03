@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Label #0",
+		"parent": null,
+		"flags": 0,
+		"headers": ""
+	},
+	{
+		"name": "Label #1",
+		"parent": "Label #5",
+		"flags": 0,
+		"headers": ""
+	},
+	{
+		"name": "Label #2",
+		"parent": "Label #5",
+		"flags": 0,
+		"headers": ""
+	},
+	{
+		"name": "Label #3",
+		"parent": "Label #5",
+		"flags": 0,
+		"headers": ""
+	},
+	{
+		"name": "Label #4",
+		"parent": null,
+		"flags": 0,
+		"headers": ""
+	},
+	{
+		"name": "Label #5",
+		"parent": "Label #0",
+		"flags": 0,
+		"headers": ""
+	}
+]
