@@ -5,6 +5,11 @@
         "headers": ""
     },
     {
+        "name": "(aeroport)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
         "name": "(aprozar)",
         "flags": 1,
         "headers": ""
@@ -16,6 +21,11 @@
     },
     {
         "name": "(broker)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(cafenea)",
         "flags": 1,
         "headers": ""
     },
@@ -51,6 +61,11 @@
     },
     {
         "name": "(gelaterie)",
+        "flags": 1,
+        "headers": ""
+    },
+    {
+        "name": "(hotel)",
         "flags": 1,
         "headers": ""
     },
